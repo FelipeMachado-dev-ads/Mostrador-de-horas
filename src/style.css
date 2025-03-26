@@ -1,0 +1,27 @@
+body {
+text-align: center;
+}
+
+header{
+color: #000000;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 400;
+font-size: 30px;
+}
+
+#msg{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+    font-size: large;
+    font-size: 25px;
+}
+div{
+    padding: 20px;
+
+}
+section {
+background-colr: #f0ffff;
+height: auto;
+width: 800px;
+
+margin: auto;
+}
