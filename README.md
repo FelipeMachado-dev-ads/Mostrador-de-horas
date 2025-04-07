@@ -13,7 +13,7 @@ Este projeto é uma página web simples que exibe uma mensagem de saudação e u
 1.  Clone este repositório para o seu computador:
 
 
-    git clone [[https://github.com/seu-usuario/seu-repositorio.git](https://www.google.com/search?q=https://github.com/seu-usuario/seu-repositorio.git)](https://github.com/FelipeMachado-dev-ads/Mostrador-de-horas.git)
+    git clone [(https://github.com/FelipeMachado-dev-ads/Mostrador-de-horas.git)]
   
 
 2.  Abra o arquivo `index.html` em seu navegador web.
@@ -48,7 +48,7 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 
 ## Autor
 
--   Felipe.Dev - [[Seu Perfil do GitHub](https://github.com/seu-usuario)](https://github.com/FelipeMachado-dev-ads)
+-   Felipe.Dev - [(https://github.com/FelipeMachado-dev-ads)]
 
 ## Licença
 
